@@ -26,6 +26,7 @@ public class Person {
 		}
 	}
 
+	
 	public void yearPasses() {
   		this.age++;
 	}
